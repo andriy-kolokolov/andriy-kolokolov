@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andriy</h1>
 <h3 align="center">A passionate Full-Stack developer from Italy</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **LARAVEL & PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

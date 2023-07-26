@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andriy</h1>
 <h3 align="center">A passionate Full-Stack developer from Italy</h3>
 
-<!-- 🌱 I’m currently learning **LARAVEL & PHP** -->>
+<!-- 🌱 I’m currently learning **LARAVEL & PHP** -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andriy-kolokolov-a527b2167/) 
